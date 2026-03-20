@@ -2,13 +2,12 @@
 
 Welcome to **Sendama** — a lightweight, lovingly-crafted 2D game engine written in PHP. Sendama makes it easy to build terminal-based 2D games and interactive experiences using familiar PHP tooling.
 
----
+
 
 ## 🎮 What is Sendama?
 
 Sendama is a 2D game engine designed for PHP developers who want to create games and interactive CLI applications. It provides a clean, component-based architecture along with a dedicated command-line tool, making it straightforward to scaffold, develop, and run your own games.
 
----
 
 ## 📦 Repositories
 
@@ -20,7 +19,6 @@ Sendama is a 2D game engine designed for PHP developers who want to create games
 | [example-game-hangman](https://github.com/sendamaphp/example-game-hangman) | A recreation of the BSD terminal version of the popular Hangman game. |
 | [example-game-the-collector](https://github.com/sendamaphp/example-game-the-collector) | A simple arcade game where players collect as many falling collectables as possible. |
 
----
 
 ## 🚀 Getting Started
 
@@ -28,7 +26,6 @@ Sendama is a 2D game engine designed for PHP developers who want to create games
 2. **Create a new project** using the CLI scaffolding tools.
 3. **Explore the example games** to see how games are structured and learn by example.
 
----
 
 ## 💡 Example Games
 
